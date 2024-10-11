@@ -225,8 +225,8 @@ span.dl2 span:first-child{
 	margin: 0.5em auto;
 }
 /* End hymn, song, verse */
-
 /* Endnotes */
+
 [epub|type~="endnotes"] header{
 	font-variant: small-caps;
 	margin: 1em;
