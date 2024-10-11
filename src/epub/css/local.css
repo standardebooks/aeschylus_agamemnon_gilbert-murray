@@ -106,6 +106,31 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End drama */
 
+/* Dialog */
+tr.together{
+	break-inside: avoid;
+}
+
+tr.together td{
+	padding: 0 .5em 0 0;
+	vertical-align: middle;
+}
+
+tr.together td:only-child,
+tr.together td + td{
+	border-left: 1px solid;
+}
+
+.together + .together td[rowspan],
+.together + .together td[rowspan] + td{
+	padding-top: .5em;
+}
+
+[epub|type~="z3998:drama"] .together td:last-child{
+	padding-left: .5em;
+}
+/* End dialog */
+
 /* Choral sections */
 [epub|type~="z3998:song"] div + div{
 	margin-top: 1em;
@@ -200,8 +225,8 @@ span.dl2 span:first-child{
 	margin: 0.5em auto;
 }
 /* End hymn, song, verse */
-/* Endnotes */
 
+/* Endnotes */
 [epub|type~="endnotes"] header{
 	font-variant: small-caps;
 	margin: 1em;
