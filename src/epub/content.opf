@@ -37,14 +37,13 @@
 		<meta id="collection-1" property="belongs-to-collection">The Oresteia</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The Greek king returns home from war only to be murdered by his wife as revenge for sacrificing their daughter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/aeschylus"&gt;Aeschylus’&lt;/a&gt; &lt;i&gt;Agamemnon&lt;/i&gt; opens with the watchman anxiously awaiting King Agamemnon’s return from the Trojan War. As Agamemnon arrives home in triumph, he is greeted by his wife, Clytemnestra, who feigns loyalty but harbors a deadly secret: she has plotted his murder in revenge for the sacrifice of their daughter, Iphigenia, which Agamemnon made to secure favorable winds for the Greek fleet. Clytemnestra’s manipulation and cunning are revealed as she ultimately kills Agamemnon in a fit of vengeance. The play ends with the ominous foreshadowing of further retribution, setting the stage for the ensuing tragedies in the &lt;a href="https://standardebooks.org/collections/the-oresteia"&gt;Oresteia trilogy&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14417</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001181624</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oresteia#Agamemnon</meta>
