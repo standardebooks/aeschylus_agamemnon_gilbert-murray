@@ -1,44 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 760 385.15">
 	<title>The first diagram depicts a simplified family tree of the House of Atreus. The family line starts with Tantalus, followed by one of his sons, Polops. The third generation only shows two of Polops’ many children, Atreus and Thyestes. Thyestes is the father of Aigisthos, who is Clytemnestra’s lover. Atreus had two sons: Agamemnon and Menelaus. Agamemnon and Clytemnestra had three children: Iphigenia, Electra, and Orestes.</title>
-	<text letter-spacing="2.5px" x="321.76306" y="20.412109">
-		<tspan font-size="28px">T<tspan font-size="22px">ANTALUS</tspan></tspan>
-	</text>
-	<text letter-spacing="2.5px" x="345.86853" y="78.225891">
-		<tspan font-size="22px">Pelops</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="198.32925" y="170.06964">
-		<tspan font-size="22px">Atreus</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="575.11121" y="170.7464">
-		<tspan font-size="22px">Thyestes</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="52.201424" y="260.91779">
-		<tspan font-size="22px">Agamemnon</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="17.337166" y="290.60577">
-		<tspan font-size="22px">(= Clytemnestra)</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="334.18481" y="261.59454">
-		<tspan font-size="22px">Menelaus</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="332.84351" y="290.60577">
-		<tspan font-size="22px">(= Helen)</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="584.62524" y="261.59454">
-		<tspan font-size="22px">Aigisthos</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="530.13501" y="290.60577">
-		<tspan font-size="22px">(= Clytemnestra)</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="0" y="380.56903">
-		<tspan font-size="22px">Iphigenia</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="335.43109" y="380.18231">
-		<tspan font-size="22px">Orestes</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="181.04904" y="380.56952">
-		<tspan font-size="22px">Electra</tspan>
-	</text>
+	<text font-size="22px" letter-spacing="2.5px" x="321.76306" y="20.412109"><tspan font-size="28px">T</tspan>ANTALUS</text>
+	<text font-size="22px" letter-spacing="2.5px" x="345.86853" y="78.225891">Pelops</text>
+	<text font-size="22px" letter-spacing="2.5px" x="198.32925" y="170.06964">Atreus</text>
+	<text font-size="22px" letter-spacing="2.5px" x="575.11121" y="170.7464">Thyestes</text>
+	<text font-size="22px" letter-spacing="2.5px" x="52.201424" y="260.91779">Agamemnon</text>
+	<text font-size="22px" letter-spacing="2.5px" x="17.337166" y="290.60577">(= Clytemnestra)</text>
+	<text font-size="22px" letter-spacing="2.5px" x="334.18481" y="261.59454">Menelaus</text>
+	<text font-size="22px" letter-spacing="2.5px" x="332.84351" y="290.60577">(= Helen)</text>
+	<text font-size="22px" letter-spacing="2.5px" x="584.62524" y="261.59454">Aigisthos</text>
+	<text font-size="22px" letter-spacing="2.5px" x="530.13501" y="290.60577">(= Clytemnestra)</text>
+	<text font-size="22px" letter-spacing="2.5px" x="0" y="380.56903">Iphigenia</text>
+	<text font-size="22px" letter-spacing="2.5px" x="335.43109" y="380.18231">Orestes</text>
+	<text font-size="22px" letter-spacing="2.5px" x="181.04904" y="380.56952">Electra</text>
 	<path d="m387.17 28.374v27.844h2v-27.844zm0 58.559v29.385h-148.64v33.26h2v-31.26h391.28v31.26h2v-33.26h-244.63v-29.385zm-148.64 92.008v29.168h-108.05v32.209h2v-30.209h262.5v30.209h2v-32.209h-156.45v-29.168zm393.28 0v61.377h2v-61.377zm-501.33 120.14v29.533h-72.777v31.641h2v-29.641h166.33v29.641h2v-29.641h156.23v29.641h2v-31.641h-253.79v-29.533z"/>
 </svg>

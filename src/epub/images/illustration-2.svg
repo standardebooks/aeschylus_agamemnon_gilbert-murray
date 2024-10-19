@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 725 117.87">
 	<title>The second diagram depicts a simplified family tree of the House of Tyndareus. Tyndareus and Leda had a daughter, Clytemnestra. Leda and Zeus had three children: Castor, Polydeauces, and Helen.</title>
-	<text letter-spacing="2.5px" x="142.20383" y="16.714844">
-		<tspan font-size="22px">Tyndareus = Leda = Zeus</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="0" y="113.29309">
-		<tspan font-size="22px">Clytemnestra</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="647.62317" y="113.29285">
-		<tspan font-size="22px">Helen</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="437.60614" y="113.29333">
-		<tspan font-size="22px">Polydeuces</tspan>
-	</text>
-	<text letter-spacing="2.5px" x="288.68973" y="112.90662">
-		<tspan font-size="22px">Castor</tspan>
-	</text>
+	<text font-size="22px" letter-spacing="2.5px" x="142.20383" y="16.714844">Tyndareus = Leda = Zeus</text>
+	<text font-size="22px" letter-spacing="2.5px" x="0" y="113.29309">Clytemnestra</text>
+	<text font-size="22px" letter-spacing="2.5px" x="647.62317" y="113.29285">Helen</text>
+	<text font-size="22px" letter-spacing="2.5px" x="437.60614" y="113.29333">Polydeuces</text>
+	<text font-size="22px" letter-spacing="2.5px" x="288.68973" y="112.90662">Castor</text>
 	<path d="m300.24 33.511v29.506h-215.02v30.35h2v-28.35h215.03v-2h-0.0137v-29.506zm102.49 0v29.506h-72.463v2h6e-3v28.35h2v-28.35h177.93v28.35h2v-28.35h170.3v28.35h2v-30.35h-279.77v-29.506z"/>
 </svg>
