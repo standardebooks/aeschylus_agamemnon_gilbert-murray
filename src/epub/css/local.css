@@ -242,3 +242,7 @@ figure img{
 	max-width: 100%;
 }
 /* End images */
+
+[epub|type~="z3998:dramatis-personae"] header{
+	margin-top: 3em;
+}
