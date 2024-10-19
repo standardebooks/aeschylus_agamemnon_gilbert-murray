@@ -9,10 +9,6 @@ section[epub|type~="z3998:scene"]{
 	margin-top: 20vh;
 }
 
-abbr[epub|type~="se:era"]{
-	font-variant: all-small-caps;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
@@ -26,6 +22,7 @@ footer{
 [epub|type~="z3998:dramatis-personae"] header{
 	font-variant: small-caps;
 	margin: 1em;
+	margin-top: 3em;
 	text-align: center;
 }
 
@@ -46,10 +43,6 @@ footer{
 [epub|type~="z3998:dramatis-personae"] ul li{
 	font-style: italic;
 	margin: 1em;
-}
-
-[epub|type~="z3998:dramatis-personae"] ul + p{
-	margin-top: 2em;
 }
 /* End dramatis personae */
 
@@ -242,7 +235,3 @@ figure img{
 	max-width: 100%;
 }
 /* End images */
-
-[epub|type~="z3998:dramatis-personae"] header{
-	margin-top: 3em;
-}
