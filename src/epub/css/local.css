@@ -220,7 +220,7 @@ span.dl2 span:first-child{
 
 [epub|type~="z3998:verse"] hr{
 	border: none;
-	margin: 0.5em auto;
+	margin: .5em auto;
 }
 /* End hymn, song, verse */
 
