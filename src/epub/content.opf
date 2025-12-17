@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14417</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001181624</dc:source>
-		<meta property="se:word-count">17692</meta>
+		<meta property="se:word-count">17691</meta>
 		<meta property="se:reading-ease.flesch">79.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Oresteia#Agamemnon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/aeschylus_agamemnon_gilbert-murray</meta>
