@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/aeschylus/agamemnon/gilbert-murray</dc:identifier>
 		<dc:date>2024-10-19T19:03:50Z</dc:date>
@@ -40,10 +40,10 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The titular Greek king returns home from the Trojan war to be greeted by his scheming wife, who plots vengeance.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/aeschylus"&gt;Aeschylus’&lt;/a&gt; &lt;i&gt;Agamemnon&lt;/i&gt; opens with a watchman anxiously awaiting King Agamemnon’s return from the Trojan War. As Agamemnon arrives home in triumph, he is greeted by his wife, Clytemnestra, who feigns loyalty but harbors a deadly secret: she has plotted his murder in revenge for the sacrifice of their daughter, Iphigenia, which Agamemnon made to secure favorable winds for the Greek fleet. Clytemnestra’s manipulation and cunning are revealed as the plot unfolds, and the play ends with the ominous foreshadowing of further retribution, setting the stage for the tragedies to come in the rest of the &lt;a href="https://standardebooks.org/collections/the-oresteia"&gt;Oresteia&lt;/a&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14417</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001181624</dc:source>
